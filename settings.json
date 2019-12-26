@@ -3,5 +3,8 @@
     "window.title": "${dirty}${activeEditorMedium}${separator}${rootName}${separator}${appName}",
     "editor.minimap.showSlider": "always",
     "editor.renderWhitespace": "boundary",
-    "explorer.autoReveal": false
+    "explorer.autoReveal": false,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "html.format.endWithNewline": true
 }
