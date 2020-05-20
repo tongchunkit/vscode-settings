@@ -1,2 +1,2 @@
 # vscode-settings
-Exported settings for vscode
+Personal exported settings for vscode
