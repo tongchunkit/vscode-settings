@@ -6,5 +6,6 @@
     "explorer.autoReveal": false,
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "html.format.endWithNewline": true
+    "html.format.endWithNewline": true,
+    "workbench.editor.wrapTabs": true,
 }
